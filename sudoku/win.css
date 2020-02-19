@@ -1,0 +1,20 @@
+body{
+    background-image: url('nerd.jpg');
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size: 1400px 650px; 
+}
+#ff{
+    font-size: 100px;
+}
+div{
+    margin-left: 150px;
+    margin-top: 50px;
+    
+}
+#try{
+    margin-left: 550px;
+    height: 100px;
+    width: 140px;
+    font-size: 30px;
+}

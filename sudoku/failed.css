@@ -1,0 +1,20 @@
+body{
+    background-image: url('fail.jpg');
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size: 1400px 650px; 
+}
+#ff{
+    font-size: 100px;
+}
+div{
+    margin-left: 500px;
+    margin-top: 200px;
+    
+}
+#try{
+    margin-left: 550px;
+    height: 100px;
+    width: 140px;
+    font-size: 30px;
+}

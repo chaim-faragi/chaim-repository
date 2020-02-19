@@ -1,0 +1,81 @@
+body{
+    background-image: url("background.jpg");
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size: 1400px 650px; 
+}
+p{
+    text-align: center;
+}
+#select{
+    font-size: 80px;
+    color: white;
+ 
+}
+#low,#medium,#high{
+ margin-left: 200px;
+}
+button{
+    margin-left: 350px;
+    height: 70px;
+    width: 150px;
+    border-radius: 50px;
+    background-image: url("enter.jpg");
+    font-size: 20px;
+}
+table{
+    margin-left:350px;
+    margin-top: 50px;
+}
+
+#l1,#l2,#l3{
+    font-size: 25px;
+    color: white;
+}
+
+#td66, #td67, #td68,#td76, #td77, #td78,
+#td86, #td87, #td88{
+    border: 5px ridge rgb(255, 102, 0);
+}
+#td00, #td10, #td20,#td01, #td11, #td12,
+#td02, #td21, #td22{
+    border: 5px ridge lightblue;
+}
+#td60, #td61, #td62,#td70, #td71, #td72,
+#td80, #td81, #td82{
+    border: 5px ridge purple;
+}
+#td33, #td34, #td35,#td43, #td44, #td45,
+#td53, #td54, #td55{
+    border: 5px ridge yellow;
+}
+#td06, #td16, #td26,#td07, #td17, #td18,
+#td08, #td27, #td28{
+    border: 5px ridge pink;
+}
+
+
+div{
+    margin-left: 360px;
+}
+#baby{
+    width: 60px;
+    height: 60px;
+}
+#man{
+    width: 60px;
+    height: 60px;
+}
+#skull{
+    width: 100px;
+    height: 80px;
+}
+button{
+    margin-left: 600px;
+}
+#selectlv{
+ margin-left: 150px;
+   
+}
+
+   

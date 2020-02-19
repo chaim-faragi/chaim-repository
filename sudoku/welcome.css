@@ -1,0 +1,38 @@
+body{
+    background-image: url("background.jpg");
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size: 1400px 650px; 
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+#h1{
+    font-size: 100px;
+    text-transform: inherit;
+    
+}
+#user,#password{
+    margin-left:590px;
+    height: 30px;
+    border-radius: 30px;
+    background-image: url("input.jpg");
+}
+#enter{
+    margin-left:630px;
+    height: 50px;
+    width: 100px;
+    font-size: 20px;
+    border-radius: 15px;
+    background-image: url("enter.jpg");
+}
+div{
+    margin-left: 350px;
+}
+#wcpng{
+    width: 700px;
+    height: 170px;
+}
+
