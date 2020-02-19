@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="audio.css"?>
+<!DOCTYPE frequency_exemple [
+  <!ELEMENT frequency_exemple (frequency_level)*>
+  <!ELEMENT frequency (definetaion|uses)*>
+  <!ATTLIST frequency  LEVEL (MED | HIGH | LOW) #REQUIRED>
+  <!ELEMENT definetaion (#PCDATA)>
+  <!ELEMENT uses (#PCDATA)>
+]>
+<frequency_exemple>
+  <frequency LEVEL="HIGH">
+    <definetaion>קול אנושי בתדר גבוה</definetaion>
+    <uses>סופרן</uses> 
+    <uses>אלט</uses>
+  </frequency>
+  <frequency LEVEL="MED">
+    <definetaion>קול אנושי בתדר בינוני</definetaion>
+  <uses>טנור</uses>
+  <uses>בריטון</uses>
+  </frequency>  
+  <frequency LEVEL="LOW">
+    <definetaion>קול אנושי בתדר נמוך</definetaion>
+    <uses>בס</uses> 
+  </frequency>
+</frequency_exemple>
